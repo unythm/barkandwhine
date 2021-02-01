@@ -6,7 +6,7 @@ This game is made by using [Pyxel](https://github.com/kitao/pyxel/), a retro gam
 
 Pyxel is under [MIT license](http://en.wikipedia.org/wiki/MIT_License).
 
-This game contains pixel art from [here](https://hpgpixer.jp/)
+This game contains pixel art from [here](https://hpgpixer.jp/).
 
 ## how to rum
 
