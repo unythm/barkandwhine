@@ -13,13 +13,11 @@ This game contains pixel art by [hpgpixer.jp](https://hpgpixer.jp/).
 **Windows:**
 
 ```sh
-cd pyxel_examples
-python 01_hello_pyxel.py
+python barkandwhine.py
 ```
 
 **Mac / Linux:**
 
 ```sh
-cd pyxel_examples
-python3 01_hello_pyxel.py
+python3 barkandwhine.py
 ```
